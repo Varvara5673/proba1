@@ -1,0 +1,47 @@
+body{
+    width: 800px;
+    margin: 0 auto;
+background-color: rgba(119, 217, 157, 0.343);
+color:rgb(53, 33, 56)
+}
+
+h1, h2, h3, h4, h5{
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 18px;
+    line-height: 16px;
+
+}
+
+#one{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 25px;
+    line-height: 17px;
+
+}
+
+.two{ font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20x;
+    line-height: 40px;
+}
+
+ol, ul{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20x;
+    line-height: 40px;
+}
+
+ul li{
+    list-style-type:decimal-leading-zero;
+    list-style-position:outside;
+}
+
+img{
+    width: 250px;
+    height: auto;
+    padding-left: 270px;
+}
